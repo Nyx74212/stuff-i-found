@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/home/Nyx/Documents/confusing stuff/c++/stuff i found/numbgen",
+      "program": "/home/Nyx/Documents/confusing stuff/c++/stuff i found/numbgen/build/Debug/outDebug"
+    }
+  ]
+}

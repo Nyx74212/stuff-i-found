@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/home/Nyx/Documents/confusing stuff/c++/stuff i found/shit i made/cpp23print",
+      "program": "/home/Nyx/Documents/confusing stuff/c++/stuff i found/shit i made/cpp23print/build/Debug/outDebug"
+    }
+  ]
+}
